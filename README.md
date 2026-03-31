@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Suhem and I'm a Developer Advocate for Academic Research at Twitter!
+My name is Suhem and I lead Forward Deployed Engineering at xAI for the X Developer Platform!
 
 <!--
 **sparack/sparack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
